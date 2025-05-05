@@ -1,0 +1,1 @@
+{ "name": "blog-platform", "version": "1.0.0", "dependencies": { "express": "*", "ejs": "*", "mysql2": "*", "express-session": "*", "passport": "*", "bcrypt": "*" } }
