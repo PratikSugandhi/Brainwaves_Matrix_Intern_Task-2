@@ -1,1 +1,0 @@
-// DB connection using mysql2/promise
